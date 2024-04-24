@@ -9,7 +9,7 @@
 [![Static Badge](https://img.shields.io/badge/license-MIT-blue)](*)
 
 Este Desafío Consiste en Desarrollar un Conversor de Monedas (En Lenguaje Java) Realizando solicitudes a una API de tasas de cambio, Manipulando datos JSON. 
-Finalmente, Filtrando y Mostrando las monedas de interés (Para Realizar las conversiónes).
+Finalmente, Filtrando y Mostrando las monedas de interés (Para Realizar las conversiones).
 
 Los Pasos para Completar este Desafío:
 
